@@ -1,17 +1,28 @@
+
+
 ⚛️ Futuristic Periodic Table
 
-by Eyad Alaa 🚀
-
-> تجربة تفاعلية خرافية للجدول الدوري — تصميم مستقبلي + تأثيرات بصرية متقدمة + أداء سلس على كل الأجهزة
-
-
-
-
+<p align="center">
+  <b>by Eyad Alaa 🚀</b><br>
+  تجربة تفاعلية خرافية للجدول الدوري — تصميم مستقبلي + تأثيرات بصرية متقدمة
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-neon?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20With-JavaScript-black?style=for-the-badge" />
+</p>
 ---
 
-🌌 Preview
+🎬 Live Preview
 
+<p align="center">
+  <img src="./assets/demo.gif" width="90%" alt="Demo Preview"/>
+</p>
+---
 
+🌌 Overview
+
+> تجربة UI مستقبلية للجدول الدوري تمزج بين العلم + الجمال + الأداء
+مصممة لتكون سلسة، تفاعلية، ومبهرة بصريًا على جميع الأجهزة.
 
 
 
@@ -22,11 +33,11 @@ by Eyad Alaa 🚀
 
 🌠 Background & Visual Effects
 
-نجوم متحركة حقيقية (Animated Starfield)
+✦ Animated Starfield (نجوم متحركة)
 
-Scanline effect يعطي إحساس شاشة مستقبلية
+✦ Scanline Effect (إحساس شاشة مستقبلية)
 
-Particle Network — جسيمات متصلة بخطوط ضوئية
+✦ Particle Network (جسيمات مترابطة بضوء)
 
 
 
@@ -34,13 +45,13 @@ Particle Network — جسيمات متصلة بخطوط ضوئية
 
 ⚛️ Interactive Elements
 
-Staggered Animation لكل العناصر عند الظهور
+✦ Staggered Element Animation
 
-تأثير 3D Hover + Glow داخلي
+✦ 3D Hover + Inner Glow
 
-Crosshair Highlight (إضاءة الصف والعمود)
+✦ Crosshair Highlight (صف + عمود)
 
-Tooltip ذكي عند التمرير
+✦ Smart Tooltip
 
 
 
@@ -48,11 +59,11 @@ Tooltip ذكي عند التمرير
 
 🧪 Element Details Panel
 
-رسم إلكترونات بـ Canvas + Trails
+✦ Electron Simulation (Canvas + Trails)
 
-نواة تنبض بتوهج ديناميكي
+✦ Dynamic Pulsing Nucleus
 
-عرض 8 معلومات لكل عنصر:
+✦ عرض بيانات العنصر:
 
 الرقم الذري
 
@@ -77,9 +88,9 @@ Tooltip ذكي عند التمرير
 
 🎮 UI Controls
 
-زر تشغيل/إيقاف Glow Mode
+✦ Toggle Glow Mode
 
-تبديل بين:
+✦ View Switch:
 
 ⊞ Table View
 
@@ -92,41 +103,11 @@ Tooltip ذكي عند التمرير
 
 📱 Responsive Design
 
-📱 Mobile
+Device	Features
 
-خلايا صغيرة (22px)
-
-عرض بالرموز فقط
-
-وضع Cards لسهولة التصفح
-
-Scroll سلس
-
-
-
----
-
-📟 Tablet
-
-حجم متدرج (28px → 46px)
-
-Scroll أفقي
-
-ظهور تدريجي للمعلومات
-
-
-
----
-
-🖥️ Desktop
-
-حجم كامل (58px)
-
-عرض كل التفاصيل
-
-Tooltip عند hover
-
-تأثيرات 3D كاملة
+📱 Mobile	رموز فقط + Card Mode + Scroll سلس
+📟 Tablet	أحجام متدرجة + Scroll أفقي
+🖥️ Desktop	عرض كامل + 3D + Tooltips
 
 
 
@@ -136,11 +117,11 @@ Tooltip عند hover
 
 🐛 Bugs Fixed
 
-تصحيح مواضع Lanthanides & Actinides
+✔ تصحيح مواقع Lanthanides & Actinides
 
-تحسين صف f-block separator
+✔ تحسين f-block separator
 
-حل مشكلة responsive scaling
+✔ إصلاح مشاكل الـ Responsive Scaling
 
 
 
@@ -148,13 +129,13 @@ Tooltip عند hover
 
 ⚡ Enhancements
 
-3D Tilt Effect
+✦ 3D Tilt Interaction
 
-مدارات إلكترونية إهليجية
+✦ Elliptical Electron Orbits
 
-خط فاصل مضيء بين الكتل
+✦ Glowing Section Divider
 
-تحسين الأداء وإعادة الحساب التلقائي
+✦ Auto Resize Optimization
 
 
 
@@ -162,15 +143,10 @@ Tooltip عند hover
 
 📸 Screenshots
 
-🧬 Table View
-
-
-
-🧪 Element Details
-
-
-
-
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1581091870622-1e7e4c1f8f5e?q=80&w=800" width="45%" />
+  <img src="https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=800" width="45%" />
+</p>
 ---
 
 🚀 Getting Started
@@ -189,6 +165,7 @@ open index.html
  ├── style.css
  ├── script.js
  └── assets/
+     └── demo.gif
 
 
 ---
@@ -197,7 +174,7 @@ open index.html
 
 HTML5
 
-CSS3 (Animations + 3D)
+CSS3 (Animations + 3D Effects)
 
 JavaScript (Canvas + Interaction)
 
@@ -207,11 +184,11 @@ JavaScript (Canvas + Interaction)
 
 🧠 Inspiration
 
-Sci-fi UI
+Sci-Fi Interfaces
 
-Atomic structures
+Atomic Visualization
 
-Futuristic dashboards
+Futuristic UI Systems
 
 
 
@@ -219,13 +196,11 @@ Futuristic dashboards
 
 👨‍💻 Developer
 
-💡 Eyad Alaa
-
-> Frontend Developer & UI Visionary
-
-
-
-
+<p align="center">
+  <b>Eyad Alaa</b><br>
+  Frontend Developer ⚡<br>
+  <i>Building futuristic web experiences</i>
+</p>
 ---
 
 ⭐ Support
@@ -236,4 +211,3 @@ Futuristic dashboards
 
 🍴 Fork
 
-💬 شاركه مع أصحابك
